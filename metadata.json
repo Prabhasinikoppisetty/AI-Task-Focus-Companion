@@ -1,0 +1,6 @@
+{
+  "name": "AI Task & Focus Companion",
+  "description": "An AI-powered glassmorphic task companion featuring a custom AI Assistant (AVA), Pomodoro Focus Mode, Deadline Risk Analyzer, Eisenhower Priority Matrix, Calendars, and Habit trackers to optimize focus and productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
